@@ -1,13 +1,45 @@
 # mypremiernodeproject
 
+## How to get started
+
+1. create a folder `mkdir myproject`
+2. change to the project directory `cd myproject`
+3. clone repo `https://github.com/Teatoller/mypremiernodeproject.git`
+4. `cd mypremiernodeproject`
+
 ## Hello world
 
-1. `cd develop`
+1. on the terminal run `cd develop`
 2. `node myfirst.js`
 3. to view the 'hello world!' open browser on `http://localhost:8080/`
+4. to stop server `cntrl + c`
 
 ## Date time view
 
 1. `cd develop`
 2. `demo_module.js`
 3. to view the 'date and time' open browser on `http://localhost:8080/`
+4. to stop server `cntrl + c`
+
+## Http module
+
+1. `cd develop`
+2. `demo_http.js`
+3. to view the 'date and time' open browser on `http://localhost:8080/`
+4. to stop server `cntrl + c`
+
+## Http url module
+
+1. `cd develop`
+2. `demo_http_url.js`
+3. to view the 'date and time' open browser on `http://localhost:8080/`
+4. try open on browser `http://localhost:8080/vanilla`
+5. try open on browser `http://localhost:8080/cherry`
+6. to stop server `cntrl + c`
+
+## Http query string module
+
+1. `cd develop`
+2. `demo_querystring.js`
+3. to view the 'date and time' open browser on `http://localhost:8080/?year=2017&month=July`
+4. to stop server `cntrl + c`
