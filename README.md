@@ -43,3 +43,40 @@
 2. `demo_querystring.js`
 3. to view the 'date and time' open browser on `http://localhost:8080/?year=2017&month=July`
 4. to stop server `cntrl + c`
+
+## Read file module
+
+1. `cd develop`
+2. `demo_readfile.js`
+3. to view the 'date and time' open browser on `http://localhost:8080/`
+4. to stop server `cntrl + c`
+
+## Append file module
+
+1. `cd develop`
+2. `demo_appendfile.js`
+3. to stop server `cntrl + c`
+
+## Open file module
+
+1. `cd develop`
+2. `demo_openfile.js`
+3. to stop server `cntrl + c`
+
+## Write file module
+
+1. `cd develop`
+2. `demo_writefile.js`
+3. to stop server `cntrl + c`
+
+## Delete file module
+
+1. `cd develop`
+2. `demo_deletefile.js`
+3. to stop server `cntrl + c`
+
+## Rename file module
+
+1. `cd develop`
+2. `demo_renamefile.js`
+3. to stop server `cntrl + c`
