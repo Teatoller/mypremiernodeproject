@@ -108,3 +108,24 @@
 1. `cd develop`
 2. `demo_eventemitter.js`
 3. to stop server `cntrl + c`
+
+## Upload file
+
+1. `cd develop`
+2. `demo_uploadform.js`
+3. to view the 'date and time' open browser on `http://localhost:8080/`
+4. to stop server `cntrl + c`
+
+## Upload parse file
+
+1. `cd develop`
+2. `demo_uploadparse.js`
+3. to view the 'date and time' open browser on `http://localhost:8080/`
+4. to stop server `cntrl + c`
+
+## Upload parse and save file
+
+1. `cd develop`
+2. `demo_uploadsave.js`
+3. to view the 'date and time' open browser on `http://localhost:8080/`
+4. to stop server `cntrl + c`
