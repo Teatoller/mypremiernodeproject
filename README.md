@@ -89,3 +89,10 @@
 4. try open on browser `http://localhost:8080/vanilla`
 5. try open on browser `http://localhost:8080/cherry`
 6. to stop server `cntrl + c`
+
+## Uppercase Hello world
+
+1. on the terminal run `cd develop`
+2. `node demo_uppercase.js`
+3. to view the 'hello world!' open browser on `http://localhost:8080/`
+4. to stop server `cntrl + c`
