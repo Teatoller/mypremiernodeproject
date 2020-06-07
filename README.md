@@ -27,3 +27,19 @@
 2. `demo_http.js`
 3. to view the 'date and time' open browser on `http://localhost:8080/`
 4. to stop server `cntrl + c`
+
+## Http url module
+
+1. `cd develop`
+2. `demo_http_url.js`
+3. to view the 'date and time' open browser on `http://localhost:8080/`
+4. try open on browser `http://localhost:8080/vanilla`
+5. try open on browser `http://localhost:8080/cherry`
+6. to stop server `cntrl + c`
+
+## Http query string module
+
+1. `cd develop`
+2. `demo_querystring.js`
+3. to view the 'date and time' open browser on `http://localhost:8080/?year=2017&month=July`
+4. to stop server `cntrl + c`
