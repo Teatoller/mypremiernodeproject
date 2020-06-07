@@ -96,3 +96,15 @@
 2. `node demo_uppercase.js`
 3. to view the 'hello world!' open browser on `http://localhost:8080/`
 4. to stop server `cntrl + c`
+
+## Demo file open or closeevent
+
+1. `cd develop`
+2. `demo_events_open.js`
+3. to stop server `cntrl + c`
+
+## Demo events emitter
+
+1. `cd develop`
+2. `demo_eventemitter.js`
+3. to stop server `cntrl + c`
